@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ThymeleafBasicApplication {
 
 	public static void main(String[] args) {
-		System.out.println("say hi");
+		System.out.println("say hi ");
 		SpringApplication.run(ThymeleafBasicApplication.class, args);
 	}
 
